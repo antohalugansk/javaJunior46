@@ -17,7 +17,7 @@ public class Koloda {
         cards[6] = new Card("Тройка пика", 3);
         cards[7] = new Card("Тройка черви", 3);
 
-        cards[8] = new Card("Четверка трефа", 4);
+        cards[8] = new Card("Четверка TREFA", 4);
         cards[9] = new Card("Четверка бубна", 4);
         cards[10] = new Card("Четверка пика", 4);
         cards[11] = new Card("Четверка черви", 4);
